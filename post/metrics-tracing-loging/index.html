@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Syntax Highlighting - Even - A super concise theme for Hugo</title>
+  <title>Metrics, tracing 和 logging 的关系 - Even - A super concise theme for Hugo</title>
   <meta name="renderer" content="webkit" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
@@ -17,8 +17,7 @@
 
 
 <meta name="author" content="olOwOlo" />
-  <meta name="description" content="function helloWorld () { alert(&amp;quot;Hello, World!&amp;quot;) }  
-" />
+  <meta name="description" content="在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。 其中一个重要的论点，是针对监控项目的范围和定义的。作" />
 
   <meta name="keywords" content="Hugo, theme, even" />
 
@@ -30,7 +29,7 @@
 <meta name="generator" content="Hugo 0.31.1" />
 
 
-<link rel="canonical" href="http://localhost:1313/post/syntax-highlighting/" />
+<link rel="canonical" href="http://localhost:1313/post/metrics-tracing-loging/" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -48,25 +47,16 @@
 <link href="/dist/even.min.css?v=2.7.0" rel="stylesheet">
 <link href="/lib/fancybox/jquery.fancybox-3.1.20.min.css" rel="stylesheet">
 
-<meta property="og:title" content="Syntax Highlighting" />
-<meta property="og:description" content="function helloWorld () {
-  alert(&quot;Hello, World!&quot;)
-}
-
-
-" />
+<meta property="og:title" content="Metrics, tracing 和 logging 的关系" />
+<meta property="og:description" content="在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。 其中一个重要的论点，是针对监控项目的范围和定义的。作" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/post/syntax-highlighting/" />
+<meta property="og:url" content="http://localhost:1313/post/metrics-tracing-loging/" />
 
 
 
-<meta property="article:published_time" content="2011-08-30T16:01:23&#43;08:00"/>
+<meta property="article:published_time" content="2017-12-28T14:37:35&#43;08:00"/>
 
-<meta property="article:modified_time" content="2017-08-30T16:01:23&#43;08:00"/>
-
-
-
-
+<meta property="article:modified_time" content="2017-12-28T14:37:35&#43;08:00"/>
 
 
 
@@ -74,29 +64,23 @@
 
 
 
-<meta itemprop="name" content="Syntax Highlighting">
-<meta itemprop="description" content="function helloWorld () {
-  alert(&quot;Hello, World!&quot;)
-}
-
-
-">
-
-
-<meta itemprop="datePublished" content="2011-08-30T16:01:23&#43;08:00" />
-<meta itemprop="dateModified" content="2011-08-30T16:01:23&#43;08:00" />
-<meta itemprop="wordCount" content="103">
 
 
 
-<meta itemprop="keywords" content="preview,Syntax Highlighting,tag-5," />
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Syntax Highlighting"/>
-<meta name="twitter:description" content="function helloWorld () {
-  alert(&quot;Hello, World!&quot;)
-}
+
+<meta itemprop="name" content="Metrics, tracing 和 logging 的关系">
+<meta itemprop="description" content="在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。 其中一个重要的论点，是针对监控项目的范围和定义的。作">
 
 
-"/>
+<meta itemprop="datePublished" content="2017-12-28T14:37:35&#43;08:00" />
+<meta itemprop="dateModified" content="2017-12-28T14:37:35&#43;08:00" />
+<meta itemprop="wordCount" content="1096">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Metrics, tracing 和 logging 的关系"/>
+<meta name="twitter:description" content="在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。 其中一个重要的论点，是针对监控项目的范围和定义的。作"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -163,15 +147,11 @@
           <article class="post">
     
     <header class="post-header">
-      <h1 class="post-title">Syntax Highlighting</h1>
+      <h1 class="post-title">Metrics, tracing 和 logging 的关系</h1>
 
       <div class="post-meta">
-        <span class="post-time"> 2011-08-30 </span>
-        <div class="post-category">
-            
-              <a href="/categories/syntax-highlighting/"> Syntax Highlighting </a>
-            
-          </div>
+        <span class="post-time"> 2017-12-28 </span>
+        
         
         
       </div>
@@ -179,85 +159,106 @@
 
     
     
+<div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">Contents</h2>
+  
+  <div class="post-toc-content">
+    <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#概念">概念</a></li>
+<li><a href="#场景">场景</a></li>
+<li><a href="#分类">分类</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+  </div>
+</div>
 
     
     <div class="post-content">
-      <pre><code class="language-js">function helloWorld () {
-  alert(&quot;Hello, World!&quot;)
-}
-</code></pre>
+      
 
-<p></p>
+<hr />
 
-<pre><code class="language-java">public class HelloWorld {
-  public static void main(String[] args) {
-    System.out.println(&quot;Hello, World!&quot;);
-  }
-}
-</code></pre>
+<p><strong>在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。</strong></p>
 
-<pre><code class="language-kotlin">package hello
+<blockquote>
+<p><strong>其中一个重要的论点，是针对监控项目的范围和定义的。作为一个分布式追踪系统，应该管理日志么？从不同角度看来，到底什么是日志？如何通过一张图形象的定位这些形形色色的系统？</strong></p>
+</blockquote>
 
-fun main(args: Array&lt;String&gt;) {
-  println(&quot;Hello World!&quot;)
-}
-</code></pre>
+<ul>
+<li>我想我们可以通过图表来定义监控的作用域，使各名词的作用范围更明确。 我们使用维恩图（Venn diagram）来描述Metrics, tracing, logging三个概念的定义。他们三者在某些情况下是重叠的，但是我尽量尝试定义他们的不同。如下图所示：</li>
+</ul>
 
-<pre><code class="language-c">#include &lt;stdio.h&gt;
+<p><img src="http://peter.bourgon.org/img/instrumentation/01.png" alt="韦恩图" /></p>
 
-/* Hello */
-int main(void){
-  printf(&quot;Hello, World!&quot;);
-  return 0;
-}
-</code></pre>
+<h3 id="概念">概念</h3>
 
-<pre><code class="language-cpp">// 'Hello World!' program 
- 
-#include &lt;iostream&gt;
- 
-int main(){
-  std::cout &lt;&lt; &quot;Hello World!&quot; &lt;&lt; std::endl;
-  return 0;
-}
-</code></pre>
+<ul>
+<li><p><strong>Metric</strong></p>
 
-<pre><code class="language-cs">using System;
-class HelloWorld{
-  public static void Main(){ 
-    System.Console.WriteLine(&quot;Hello, World!&quot;);
-  }
-}
-</code></pre>
+<ul>
+<li>它是可累加的：<strong>他们具有原子性，每个都是一个逻辑计量单元，或者一个时间段内的柱状图</strong>。例如<em>：队列的当前深度可以被定义为一个计量单元，在写入或读取时被更新统计； 输入HTTP请求的数量可以被定义为一个计数器，用于简单累加； 请求的执行时间可以被定义为一个柱状图，在指定时间片上更新和统计汇总。</em></li>
+</ul></li>
 
-<pre><code class="language-html">&lt;html&gt;
-&lt;body&gt;
-  Hello, World!
-&lt;/body&gt;
-&lt;/html&gt;
-</code></pre>
+<li><p><strong>Logging</strong></p>
 
-<pre><code class="language-go">package main
-import fmt &quot;fmt&quot;
+<ul>
+<li>它描述一些离散的（不连续的）事件。</li>
+<li>例如：*应用通过一个滚动的文件输出debug或error信息，并通过日志收集系统，存储到Elasticsearch中； 审批明细信息通过Kafka，存储到数据库（BigTable）中； 又或者，特定请求的元数据信息，从服务请求中剥离出来，发送给一个异常收集服务，如NewRelic*。</li>
+</ul></li>
 
-func main() 
-{
-   fmt.Printf(&quot;Hello, World!\n&quot;);
-}
-</code></pre>
+<li><p><strong>Tracing</strong></p>
 
-<pre><code class="language-scala">object HelloWorld with Application {
-  Console.println(&quot;Hello, World!&quot;);
-}
-</code></pre>
+<ul>
+<li>它在单次请求的范围内，处理信息。 任何的数据、元数据信息都被绑定到系统中的单个事务上。</li>
+<li>例如：一次调用远程服务的RPC执行过程；一次实际的SQL查询语句；一次HTTP请求的业务性ID。</li>
+</ul></li>
+</ul>
 
-<pre><code class="language-php">&lt;?php
-  echo 'Hello, World!';
-?&gt;
-</code></pre>
+<blockquote>
+<p><strong>根据上述的定义，我们可以标记上图的重叠部分。</strong></p>
+</blockquote>
 
-<pre><code class="language-python">print(&quot;Hello, World!&quot;) 
-</code></pre>
+<p><img src="http://peter.bourgon.org/img/instrumentation/02.png" alt="" /></p>
+
+<h3 id="场景">场景</h3>
+
+<ul>
+<li>大量的被监控的应用是分布式的应用，逻辑处理在单次请求的范围内完成。因此，讨论<strong>追踪请求的上下文</strong>是有意义的。</li>
+<li><strong>并不是所有的监控系统都绑定在请求的生命周期上的</strong>。他们可能是<strong>逻辑组件诊断信息</strong>、处理过程的<strong>生命周期明细信息</strong>，这些信息<strong><em>和任何离散的请求时正交关系</em></strong>。所以，不是所有的metric和log都可以被塞进追踪系统的概念中，至少在不经过数据加工处理是不行的。+</li>
+<li>又或者，我们可能发觉使用metric统计数据，对应用监控有很大帮助，例如prometheus生态，可以<strong>量化的实时展现应用视图</strong>；相应的，如果我们将metric统计数据强行使用针对log的管道来处理，将使我们丢失很多特性。</li>
+</ul>
+
+<h3 id="分类">分类</h3>
+
+<ul>
+<li>那么，在这里，我们可以开始对已知的系统进行分类。
+
+<ul>
+<li>如：Prometheus， 专一的metric统计系统，随着时间推移，也许会进化为追踪系统，进而进行请求内的指标统计，但不太可能深入到log处理领域。</li>
+<li>ELK生态提供log的记录，滚动和聚合，并在其他领域不停的积累更多的特性，并集成进来。</li>
+</ul></li>
+</ul>
+
+<p><img src="http://peter.bourgon.org/img/instrumentation/03.png" alt="" /></p>
+
+<ul>
+<li>资源
+
+<ul>
+<li>metric更节省资源，因为他会“天然的”压缩数据。</li>
+<li>日志倾向于无限增加，会频繁的超出预期的容量。</li>
+<li>trace可能处于他们两的中间位置。
+<br /></li>
+</ul></li>
+</ul>
+
     </div>
 
     
@@ -269,7 +270,7 @@ func main()
   </p>
   <p class="copyright-item">
     <span class="item-title">LastMod</span>
-    <span class="item-content">2017-08-30</span>
+    <span class="item-content">2017-12-28</span>
   </p>
   
   <p class="copyright-item">
@@ -282,25 +283,22 @@ func main()
     
 
     <footer class="post-footer">
-      <div class="post-tags">
-          
-          <a href="/tags/preview/">preview</a>
-          
-          <a href="/tags/syntax-highlighting/">Syntax Highlighting</a>
-          
-          <a href="/tags/tag-5/">tag-5</a>
-          
-        </div>
+      
 
       
       <nav class="post-nav">
         
-          <a class="prev" href="/post/chinese-preview/">
+          <a class="prev" href="/post/opentracing/">
             <i class="iconfont icon-left"></i>
-            <span class="prev-text nav-default">中文 《长恨歌》</span>
+            <span class="prev-text nav-default">OpenTracing语义标准</span>
             <span class="prev-text nav-mobile">Prev</span>
           </a>
         
+          <a class="next" href="/post/two/">
+            <span class="next-text nav-default">Two</span>
+            <span class="prev-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
       </nav>
     </footer>
   </article>

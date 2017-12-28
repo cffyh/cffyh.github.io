@@ -27,6 +27,33 @@
     </item>
     
     <item>
+      <title>OpenTracing语义标准</title>
+      <link>http://localhost:1313/post/opentracing/</link>
+      <pubDate>Thu, 28 Dec 2017 16:08:37 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/opentracing/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Metrics, tracing 和 logging 的关系</title>
+      <link>http://localhost:1313/post/metrics-tracing-loging/</link>
+      <pubDate>Thu, 28 Dec 2017 14:37:35 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/metrics-tracing-loging/</guid>
+      <description>在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。 其中一个重要的论点，是针对监控项目的范围和定义的。作</description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>http://localhost:1313/post/two/</link>
+      <pubDate>Thu, 28 Dec 2017 10:08:07 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/two/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>English Creating a New Theme</title>
       <link>http://localhost:1313/post/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
