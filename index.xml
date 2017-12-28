@@ -2,36 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/</link>
+    <link>https://cffyh.github.io/</link>
     <description>Recent content on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Aug 2017 18:03:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cffyh.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Theme preview</title>
-      <link>http://localhost:1313/post/even-preview/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
-      
-      <guid>http://localhost:1313/post/even-preview/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;这篇文章集中说明主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些样式，可以去修改 css/ 文件夹下的 .scss 文件。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://cffyh.github.io/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://cffyh.github.io/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
@@ -39,37 +24,37 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>OpenTracing语义标准</title>
-      <link>http://localhost:1313/post/opentracing/</link>
+      <link>https://cffyh.github.io/post/opentracing/</link>
       <pubDate>Thu, 28 Dec 2017 16:08:37 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/opentracing/</guid>
+      <guid>https://cffyh.github.io/post/opentracing/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Metrics, tracing 和 logging 的关系</title>
-      <link>http://localhost:1313/post/metrics-tracing-loging/</link>
+      <link>https://cffyh.github.io/post/metrics-tracing-loging/</link>
       <pubDate>Thu, 28 Dec 2017 14:37:35 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/metrics-tracing-loging/</guid>
+      <guid>https://cffyh.github.io/post/metrics-tracing-loging/</guid>
       <description>在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。 其中一个重要的论点，是针对监控项目的范围和定义的。作</description>
     </item>
     
     <item>
       <title>Two</title>
-      <link>http://localhost:1313/post/two/</link>
+      <link>https://cffyh.github.io/post/two/</link>
       <pubDate>Thu, 28 Dec 2017 10:08:07 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/two/</guid>
+      <guid>https://cffyh.github.io/post/two/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>English Creating a New Theme</title>
-      <link>http://localhost:1313/post/english-preview/</link>
+      <link>https://cffyh.github.io/post/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/english-preview/</guid>
+      <guid>https://cffyh.github.io/post/english-preview/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
@@ -79,10 +64,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>中文 《长恨歌》</title>
-      <link>http://localhost:1313/post/chinese-preview/</link>
+      <link>https://cffyh.github.io/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/chinese-preview/</guid>
+      <guid>https://cffyh.github.io/post/chinese-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -101,11 +86,26 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>Theme preview</title>
+      <link>https://cffyh.github.io/post/even-preview/</link>
+      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      
+      <guid>https://cffyh.github.io/post/even-preview/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这篇文章集中说明主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些样式，可以去修改 css/ 文件夹下的 .scss 文件。&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/post/syntax-highlighting/</link>
+      <link>https://cffyh.github.io/post/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/syntax-highlighting/</guid>
+      <guid>https://cffyh.github.io/post/syntax-highlighting/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
   alert(&amp;quot;Hello, World!&amp;quot;)
 }
