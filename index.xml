@@ -23,6 +23,15 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>多线程和并行的世界</title>
+      <link>https://cffyh.github.io/post/concurrent/</link>
+      <pubDate>Thu, 28 Dec 2017 18:17:46 +0800</pubDate>
+      
+      <guid>https://cffyh.github.io/post/concurrent/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>OpenTracing语义标准</title>
       <link>https://cffyh.github.io/post/opentracing/</link>
       <pubDate>Thu, 28 Dec 2017 16:08:37 +0800</pubDate>
