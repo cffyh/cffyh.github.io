@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Even - A super concise theme for Hugo</title>
-    <link>https://cffyh.github.io/tags/</link>
+    <link>https://www.cffyh.cc/tags/</link>
     <description>Recent content in Tags on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 31 Aug 2017 15:43:48 +0800</lastBuildDate>
     
-	<atom:link href="https://cffyh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.cffyh.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>English</title>
-      <link>https://cffyh.github.io/tags/english/</link>
+      <link>https://www.cffyh.cc/tags/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/english/</guid>
+      <guid>https://www.cffyh.cc/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preview</title>
-      <link>https://cffyh.github.io/tags/preview/</link>
+      <link>https://www.cffyh.cc/tags/preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/preview/</guid>
+      <guid>https://www.cffyh.cc/tags/preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://cffyh.github.io/tags/syntax-highlighting/</link>
+      <link>https://www.cffyh.cc/tags/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/syntax-highlighting/</guid>
+      <guid>https://www.cffyh.cc/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 1</title>
-      <link>https://cffyh.github.io/tags/tag-1/</link>
+      <link>https://www.cffyh.cc/tags/tag-1/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/tag-1/</guid>
+      <guid>https://www.cffyh.cc/tags/tag-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 2</title>
-      <link>https://cffyh.github.io/tags/tag-2/</link>
+      <link>https://www.cffyh.cc/tags/tag-2/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/tag-2/</guid>
+      <guid>https://www.cffyh.cc/tags/tag-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 3</title>
-      <link>https://cffyh.github.io/tags/tag-3/</link>
+      <link>https://www.cffyh.cc/tags/tag-3/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/tag-3/</guid>
+      <guid>https://www.cffyh.cc/tags/tag-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 5</title>
-      <link>https://cffyh.github.io/tags/tag-5/</link>
+      <link>https://www.cffyh.cc/tags/tag-5/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/tag-5/</guid>
+      <guid>https://www.cffyh.cc/tags/tag-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme Preview</title>
-      <link>https://cffyh.github.io/tags/theme-preview/</link>
+      <link>https://www.cffyh.cc/tags/theme-preview/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/theme-preview/</guid>
+      <guid>https://www.cffyh.cc/tags/theme-preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>https://cffyh.github.io/tags/%E4%B8%AD%E6%96%87/</link>
+      <link>https://www.cffyh.cc/tags/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
+      <guid>https://www.cffyh.cc/tags/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     

@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Even - A super concise theme for Hugo</title>
-    <link>https://cffyh.github.io/post/</link>
+    <link>https://www.cffyh.cc/post/</link>
     <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 29 Dec 2017 14:48:06 +0800</lastBuildDate>
     
-	<atom:link href="https://cffyh.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.cffyh.cc/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于写代码这件事</title>
-      <link>https://cffyh.github.io/post/coding/</link>
+      <link>https://www.cffyh.cc/post/coding/</link>
       <pubDate>Fri, 29 Dec 2017 14:48:06 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/coding/</guid>
+      <guid>https://www.cffyh.cc/post/coding/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>多线程和并行的世界</title>
-      <link>https://cffyh.github.io/post/concurrent/</link>
+      <link>https://www.cffyh.cc/post/concurrent/</link>
       <pubDate>Thu, 28 Dec 2017 18:17:46 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/concurrent/</guid>
+      <guid>https://www.cffyh.cc/post/concurrent/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>OpenTracing语义标准</title>
-      <link>https://cffyh.github.io/post/opentracing/</link>
+      <link>https://www.cffyh.cc/post/opentracing/</link>
       <pubDate>Thu, 28 Dec 2017 16:08:37 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/opentracing/</guid>
+      <guid>https://www.cffyh.cc/post/opentracing/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Metrics, tracing 和 logging 的关系</title>
-      <link>https://cffyh.github.io/post/metrics-tracing-loging/</link>
+      <link>https://www.cffyh.cc/post/metrics-tracing-loging/</link>
       <pubDate>Thu, 28 Dec 2017 14:37:35 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/metrics-tracing-loging/</guid>
+      <guid>https://www.cffyh.cc/post/metrics-tracing-loging/</guid>
       <description>在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。 其中一个重要的论点，是针对监控项目的范围和定义的。作</description>
     </item>
     
     <item>
       <title>Two</title>
-      <link>https://cffyh.github.io/post/two/</link>
+      <link>https://www.cffyh.cc/post/two/</link>
       <pubDate>Thu, 28 Dec 2017 10:08:07 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/two/</guid>
+      <guid>https://www.cffyh.cc/post/two/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>English Creating a New Theme</title>
-      <link>https://cffyh.github.io/post/english-preview/</link>
+      <link>https://www.cffyh.cc/post/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/english-preview/</guid>
+      <guid>https://www.cffyh.cc/post/english-preview/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
@@ -71,10 +71,10 @@
     
     <item>
       <title>中文 《长恨歌》</title>
-      <link>https://cffyh.github.io/post/chinese-preview/</link>
+      <link>https://www.cffyh.cc/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/chinese-preview/</guid>
+      <guid>https://www.cffyh.cc/post/chinese-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -94,10 +94,10 @@
     
     <item>
       <title>Theme preview</title>
-      <link>https://cffyh.github.io/post/even-preview/</link>
+      <link>https://www.cffyh.cc/post/even-preview/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/even-preview/</guid>
+      <guid>https://www.cffyh.cc/post/even-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -109,10 +109,10 @@
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://cffyh.github.io/post/syntax-highlighting/</link>
+      <link>https://www.cffyh.cc/post/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://cffyh.github.io/post/syntax-highlighting/</guid>
+      <guid>https://www.cffyh.cc/post/syntax-highlighting/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
   alert(&amp;quot;Hello, World!&amp;quot;)
 }

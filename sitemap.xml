@@ -1,204 +1,204 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="https://cffyh.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.cffyh.cc/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cffyh.github.io/about/</loc>
+    <loc>https://www.cffyh.cc/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/coding/</loc>
+    <loc>https://www.cffyh.cc/post/coding/</loc>
     <lastmod>2017-12-29T14:48:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/concurrent/</loc>
+    <loc>https://www.cffyh.cc/post/concurrent/</loc>
     <lastmod>2017-12-28T17:47:42+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/opentracing/</loc>
+    <loc>https://www.cffyh.cc/post/opentracing/</loc>
     <lastmod>2017-12-28T16:08:37+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/metrics-tracing-loging/</loc>
+    <loc>https://www.cffyh.cc/post/metrics-tracing-loging/</loc>
     <lastmod>2017-12-28T14:37:35+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/two/</loc>
+    <loc>https://www.cffyh.cc/post/two/</loc>
     <lastmod>2017-12-28T10:08:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/english-preview/</loc>
+    <loc>https://www.cffyh.cc/post/english-preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/chinese-preview/</loc>
+    <loc>https://www.cffyh.cc/post/chinese-preview/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/even-preview/</loc>
+    <loc>https://www.cffyh.cc/post/even-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/syntax-highlighting/</loc>
+    <loc>https://www.cffyh.cc/post/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/categories/</loc>
+    <loc>https://www.cffyh.cc/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/categories/category-2/</loc>
+    <loc>https://www.cffyh.cc/categories/category-2/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/categories/category-3/</loc>
+    <loc>https://www.cffyh.cc/categories/category-3/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/english/</loc>
+    <loc>https://www.cffyh.cc/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/categories/english/</loc>
+    <loc>https://www.cffyh.cc/categories/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/</loc>
+    <loc>https://www.cffyh.cc/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/post/</loc>
+    <loc>https://www.cffyh.cc/post/</loc>
     <lastmod>2017-12-29T14:48:06+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/preview/</loc>
+    <loc>https://www.cffyh.cc/tags/preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/syntax-highlighting/</loc>
+    <loc>https://www.cffyh.cc/tags/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/categories/syntax-highlighting/</loc>
+    <loc>https://www.cffyh.cc/categories/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/tag-1/</loc>
+    <loc>https://www.cffyh.cc/tags/tag-1/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/tag-2/</loc>
+    <loc>https://www.cffyh.cc/tags/tag-2/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/tag-3/</loc>
+    <loc>https://www.cffyh.cc/tags/tag-3/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/tag-5/</loc>
+    <loc>https://www.cffyh.cc/tags/tag-5/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/</loc>
+    <loc>https://www.cffyh.cc/tags/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/theme-preview/</loc>
+    <loc>https://www.cffyh.cc/tags/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/categories/theme-preview/</loc>
+    <loc>https://www.cffyh.cc/categories/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/tags/%E4%B8%AD%E6%96%87/</loc>
+    <loc>https://www.cffyh.cc/tags/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://cffyh.github.io/categories/%E4%B8%AD%E6%96%87/</loc>
+    <loc>https://www.cffyh.cc/categories/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>

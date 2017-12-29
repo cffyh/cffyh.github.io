@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cffyh.github.io/sitemap.xml
+Sitemap: https://www.cffyh.cc/sitemap.xml
