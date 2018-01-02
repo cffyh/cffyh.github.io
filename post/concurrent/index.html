@@ -19,8 +19,7 @@
 
 
 <meta name="author" content="刘超雄" />
-  <meta name="description" content="
-" />
+  <meta name="description" content="背景 故事从一个变量讲起。比如初学编程的时候，我们都是从这样的代码学起的。 a = 1 print(a&#43;1) 这能有多难？变量就是一个原子的容器，里面“之前”放了什么，“" />
 
   <meta name="keywords" content="Hugo, theme, even" />
 
@@ -51,7 +50,7 @@
 <link href="/lib/fancybox/jquery.fancybox-3.1.20.min.css" rel="stylesheet">
 
 <meta property="og:title" content="多线程和并行的世界" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="背景 故事从一个变量讲起。比如初学编程的时候，我们都是从这样的代码学起的。 a = 1 print(a&#43;1) 这能有多难？变量就是一个原子的容器，里面“之前”放了什么，“" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.cffyh.cc/post/concurrent/" />
 
@@ -72,18 +71,18 @@
 
 
 <meta itemprop="name" content="多线程和并行的世界">
-<meta itemprop="description" content="">
+<meta itemprop="description" content="背景 故事从一个变量讲起。比如初学编程的时候，我们都是从这样的代码学起的。 a = 1 print(a&#43;1) 这能有多难？变量就是一个原子的容器，里面“之前”放了什么，“">
 
 
 <meta itemprop="datePublished" content="2017-12-28T18:17:46&#43;08:00" />
 <meta itemprop="dateModified" content="2017-12-28T18:17:46&#43;08:00" />
-<meta itemprop="wordCount" content="7278">
+<meta itemprop="wordCount" content="7250">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="多线程和并行的世界"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="背景 故事从一个变量讲起。比如初学编程的时候，我们都是从这样的代码学起的。 a = 1 print(a&#43;1) 这能有多难？变量就是一个原子的容器，里面“之前”放了什么，“"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -165,7 +164,7 @@
 
     
     <div class="post-content">
-      <p></p>
+      
 
 <h2 id="背景">背景</h2>
 
@@ -451,6 +450,7 @@ Write：在这个历史的基础上，写入我的值。这个写入要获得足
 <p>但是如果不要求100%不丢，允许lost update，这个问题就变得非常容易了。只要把写入都发给一个master，让master异步复制日志就好了。一旦master挂掉，复制过程中的日志对应的写入就丢失了。</p>
 
 <p>绝大多数业务都不要求数据100%不丢，单行数据，或者说单个变量的线性一致性读和写都是可以做到的，也不是很难。</p>
+
     </div>
 
     
@@ -516,7 +516,9 @@ Write：在这个历史的基础上，写入我的值。这个写入要获得足
 
   <span class="copyright-year">
     &copy; 
-    2017
+    
+      2017 - 
+    2018
     <span class="heart">
       <i class="iconfont icon-heart"></i>
     </span>

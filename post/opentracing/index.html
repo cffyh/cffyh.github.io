@@ -19,8 +19,7 @@
 
 
 <meta name="author" content="刘超雄" />
-  <meta name="description" content="
-" />
+  <meta name="description" content="版本号: 1.1 综述 这是正式的OpenTracing语义标准。OpenTracing是一个跨编程语言的标准，此文档会避免具有语言特性的概念。比如，" />
 
   <meta name="keywords" content="Hugo, theme, even" />
 
@@ -51,7 +50,7 @@
 <link href="/lib/fancybox/jquery.fancybox-3.1.20.min.css" rel="stylesheet">
 
 <meta property="og:title" content="OpenTracing语义标准" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="版本号: 1.1 综述 这是正式的OpenTracing语义标准。OpenTracing是一个跨编程语言的标准，此文档会避免具有语言特性的概念。比如，" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://www.cffyh.cc/post/opentracing/" />
 
@@ -72,18 +71,18 @@
 
 
 <meta itemprop="name" content="OpenTracing语义标准">
-<meta itemprop="description" content="">
+<meta itemprop="description" content="版本号: 1.1 综述 这是正式的OpenTracing语义标准。OpenTracing是一个跨编程语言的标准，此文档会避免具有语言特性的概念。比如，">
 
 
 <meta itemprop="datePublished" content="2017-12-28T16:08:37&#43;08:00" />
 <meta itemprop="dateModified" content="2017-12-28T16:08:37&#43;08:00" />
-<meta itemprop="wordCount" content="5353">
+<meta itemprop="wordCount" content="5283">
 
 
 
 <meta itemprop="keywords" content="" />
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="OpenTracing语义标准"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="版本号: 1.1 综述 这是正式的OpenTracing语义标准。OpenTracing是一个跨编程语言的标准，此文档会避免具有语言特性的概念。比如，"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -165,7 +164,7 @@
 
     
     <div class="post-content">
-      <p></p>
+      
 
 <p><strong>版本号:</strong> 1.1</p>
 
@@ -465,6 +464,7 @@ OpenTracing的使用者仅仅需要，在创建span、向传输协议Inject（�
 <h3 id="可选-api-元素">可选 API 元素</h3>
 
 <p>有些语言的OpenTracing实现，为了在串行处理中，传递活跃的<code>Span</code>或<code>SpanContext</code>，提供了一些工具类。例如，<code>opentracing-go</code>中，通过<code>context.Context</code>机制，可以设置和获取活跃的<code>Span</code>。</p>
+
     </div>
 
     
@@ -530,7 +530,9 @@ OpenTracing的使用者仅仅需要，在创建span、向传输协议Inject（�
 
   <span class="copyright-year">
     &copy; 
-    2017
+    
+      2017 - 
+    2018
     <span class="heart">
       <i class="iconfont icon-heart"></i>
     </span>

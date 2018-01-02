@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>稳定性和效率的建设 - Even - A super concise theme for Hugo</title>
+  <meta name="renderer" content="webkit" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+<meta name="google-site-verification" content="eiWlv8y03_FJ7YItP72quHoi0GlI-t4_tNYv7uETwKw" />
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+<meta name="theme-color" content="#f8f5ec" />
+<meta name="msapplication-navbutton-color" content="#f8f5ec">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
+
+
+<meta name="author" content="刘超雄" />
+  <meta name="description" content="定位 技术为业务服务， 稳定性 设计 开发测试流程 故障角度 预防演练，故障注入 提早发现 辅助定位 快速恢复 方法论和工具 效率 docker化 中间件 流程优化 稳定" />
+
+  <meta name="keywords" content="Hugo, theme, even" />
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.31.1" />
+
+
+<link rel="canonical" href="https://www.cffyh.cc/post/%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%95%88%E7%8E%87%E7%9A%84%E5%BB%BA%E8%AE%BE/" />
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="icon" href="/favicon.ico" />
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+<link href="/dist/even.min.css?v=2.7.0" rel="stylesheet">
+<link href="/lib/fancybox/jquery.fancybox-3.1.20.min.css" rel="stylesheet">
+
+<meta property="og:title" content="稳定性和效率的建设" />
+<meta property="og:description" content="定位 技术为业务服务， 稳定性 设计 开发测试流程 故障角度 预防演练，故障注入 提早发现 辅助定位 快速恢复 方法论和工具 效率 docker化 中间件 流程优化 稳定" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.cffyh.cc/post/%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%95%88%E7%8E%87%E7%9A%84%E5%BB%BA%E8%AE%BE/" />
+
+
+
+<meta property="article:published_time" content="2018-01-02T10:08:19&#43;08:00"/>
+
+<meta property="article:modified_time" content="2018-01-02T10:08:19&#43;08:00"/>
+
+
+
+
+
+
+
+
+
+
+
+<meta itemprop="name" content="稳定性和效率的建设">
+<meta itemprop="description" content="定位 技术为业务服务， 稳定性 设计 开发测试流程 故障角度 预防演练，故障注入 提早发现 辅助定位 快速恢复 方法论和工具 效率 docker化 中间件 流程优化 稳定">
+
+
+<meta itemprop="datePublished" content="2018-01-02T10:08:19&#43;08:00" />
+<meta itemprop="dateModified" content="2018-01-02T10:08:19&#43;08:00" />
+<meta itemprop="wordCount" content="1200">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="稳定性和效率的建设"/>
+<meta name="twitter:description" content="定位 技术为业务服务， 稳定性 设计 开发测试流程 故障角度 预防演练，故障注入 提早发现 辅助定位 快速恢复 方法论和工具 效率 docker化 中间件 流程优化 稳定"/>
+
+<!--[if lte IE 9]>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+<![endif]-->
+
+</head>
+<body>
+  <div id="mobile-navbar" class="mobile-navbar">
+  <div class="mobile-header-logo">
+    <a href="/" class="logo">Even</a>
+  </div>
+  <div class="mobile-navbar-icon">
+    <span></span>
+    <span></span>
+    <span></span>
+  </div>
+</div>
+<nav id="mobile-menu" class="mobile-menu slideout-menu">
+  <ul class="mobile-menu-list">
+    <a href="/">
+        <li class="mobile-menu-item">Home</li>
+      </a><a href="/post/">
+        <li class="mobile-menu-item">Archives</li>
+      </a><a href="/tags/">
+        <li class="mobile-menu-item">Tags</li>
+      </a><a href="/categories/">
+        <li class="mobile-menu-item">Categories</li>
+      </a><a href="/about/">
+        <li class="mobile-menu-item">About</li>
+      </a>
+  </ul>
+</nav>
+  <div class="container" id="mobile-panel">
+    <header id="header" class="header">
+        <div class="logo-wrapper">
+  <a href="/" class="logo">Even</a>
+</div>
+
+<nav class="site-navbar">
+  <ul id="menu" class="menu">
+    <li class="menu-item">
+        <a class="menu-item-link" href="/">Home</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/post/">Archives</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/tags/">Tags</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/categories/">Categories</a>
+      </li><li class="menu-item">
+        <a class="menu-item-link" href="/about/">About</a>
+      </li>
+  </ul>
+</nav>
+    </header>
+
+    <main id="main" class="main">
+      <div class="content-wrapper">
+        <div id="content" class="content">
+          <article class="post">
+    
+    <header class="post-header">
+      <h1 class="post-title">稳定性和效率的建设</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2018-01-02 </span>
+        
+        
+        
+      </div>
+    </header>
+
+    
+    
+
+    
+    <div class="post-content">
+      
+
+<h3 id="定位">定位</h3>
+
+<ul>
+<li>技术为业务服务，</li>
+</ul>
+
+<h3 id="稳定性">稳定性</h3>
+
+<ul>
+<li>设计</li>
+<li>开发测试流程</li>
+<li>故障角度
+
+<ul>
+<li>预防演练，故障注入</li>
+<li>提早发现</li>
+<li>辅助定位</li>
+<li>快速恢复</li>
+</ul></li>
+<li>方法论和工具</li>
+</ul>
+
+<h3 id="效率">效率</h3>
+
+<ul>
+<li>docker化</li>
+<li>中间件</li>
+<li>流程优化</li>
+</ul>
+
+<blockquote>
+<p>稳定性和效率其实是双赢的关系，而不是稳定性如何双赢</p>
+</blockquote>
+
+<h4 id="上线流程">上线流程</h4>
+
+<ul>
+<li>上线流程规范：明确且落地到wiki</li>
+<li>上线checklist：明确可执行的检查项，必须包含预览机验证环节及灰度发布环节。落地到wiki或沉淀到共享文档</li>
+<li>（可选）预览机验证环节&amp;灰度发布环节实践：有落地沉淀并可以广泛推广借鉴的灰度发布实践，形成带实例的推广材料</li>
+<li>（可选）工具创新及应用：工具的引入或创新，应用指南说明及实践沉淀的分享材料。</li>
+</ul>
+
+<h4 id="coderivew实践">Coderivew实践</h4>
+
+<ul>
+<li>有代码owner机制规范，落地到wiki</li>
+<li>采用了工具进行Codereview</li>
+<li>核心代码均采取了强制Codereview策略</li>
+<li>代码库、代码owner、CR单数据接入星辰平台统计大盘</li>
+</ul>
+
+<h4 id="持续集成">持续集成</h4>
+
+<ul>
+<li>接入静态代码扫描，有扫描结果报告</li>
+<li>接入自动构建和打包(接入Jenkins和SCMPF）</li>
+<li>自动化测试用例覆盖率达到50%以上，相应的测试报告、测试cas、及自动化测试实例代码，落地到文档或者wiki</li>
+<li>（可选）自动化测试的实践分享材料</li>
+</ul>
+
+<h4 id="稳定性承诺">稳定性承诺</h4>
+
+<ul>
+<li>具有明确的sla定义及可度量公式</li>
+<li>落地到星辰平台且所有核心链路上的调用方均签署完毕</li>
+</ul>
+
+<h4 id="架构设计">架构设计</h4>
+
+<ul>
+<li>有架构评审机制及流程规范，落地到wiki</li>
+<li>有明确的架构评审checklist检查项列表</li>
+<li>架构评审的结果有文档沉淀或者落地到wiki</li>
+<li>（可选）有落地沉淀并可以分享的优秀架构设计实践实例材料</li>
+</ul>
+
+<h4 id="容量预估">容量预估</h4>
+
+<ul>
+<li>压测方案，执行结果及改进方案落地沉淀到wiki或共享文档</li>
+<li>明确给出容量核心指标：QPS、并发量、平均响应时间、机器规模</li>
+<li>有明确的容量预估方案并落地到wiki平台，其中必须包含“预估总访问量、预估平均QPS、预估峰值QPS，单机极限QPS”</li>
+<li>并包含明确的容量预估公示，和3个月内的峰值实际容量与系统压测数据</li>
+<li>（可选）有容量预估系统，容量预警告警建设及机制</li>
+</ul>
+
+<h4 id="服务化实践">服务化实践</h4>
+
+<ul>
+<li>服务标准化相关设计方案，实践效果沉淀落地到wiki或共享文档
+
+<ul>
+<li>分层设计&amp;服务拆分</li>
+<li>数据库拆分</li>
+<li>缓存拆分</li>
+</ul></li>
+<li>API收敛
+
+<ul>
+<li>数据流和特征收敛</li>
+</ul></li>
+<li>服务全部/核心接口文档</li>
+<li>服务发现接入：php版本服务发现接入、golang版本服务发现接入
+
+<ul>
+<li>其他详细方案及实践【请提供监控指标清单及监控系统链接，wiki页面链接】</li>
+</ul></li>
+</ul>
+
+<h4 id="监控建设">监控建设</h4>
+
+<ul>
+<li>监控标准化Metrics已接入；
+
+<ul>
+<li>具备监控大盘：含系统层面、DB层面、业务层面。明确提供监控指标及监控系统链接；</li>
+<li>核心指标配置了告警策略，有明确的告警后处理流程规范，落地到wiki。</li>
+</ul></li>
+</ul>
+
+<h4 id="降级实施">降级实施</h4>
+
+<ul>
+<li>有降级预案且预案已上线
+
+<ul>
+<li>上线前预演生效，预演方案及结果沉淀到wiki</li>
+<li>有快速降级能力及技术策略并落地到wiki
++（可选）有创新工具及可推广的分享技术实践建设</li>
+</ul></li>
+</ul>
+
+<h4 id="容灾设计和冗余">容灾设计和冗余</h4>
+
+<ul>
+<li><p>单元化，双活是它的第二个阶段，多活是第三个阶段</p></li>
+
+<li><p>重大的机房或网络坏损灾难的容灾方案，落地到wiki，或共享文档</p>
+
+<ul>
+<li>部分容灾预案是可以进行定期预演的</li>
+<li>有定期预演的结果报告</li>
+</ul></li>
+
+<li><p>单元化实施完成，方案需要落地到wiki上</p></li>
+</ul>
+
+    </div>
+
+    
+    
+
+    
+    
+
+    <footer class="post-footer">
+      
+
+      
+      <nav class="post-nav">
+        
+          <a class="prev" href="/post/%E5%85%B3%E4%BA%8E%E5%BC%82%E5%9C%B0%E5%A4%9A%E6%B4%BB/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">关于异地多活</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        
+          <a class="next" href="/post/coding/">
+            <span class="next-text nav-default">关于写代码这件事</span>
+            <span class="prev-text nav-mobile">Next</span>
+            <i class="iconfont icon-right"></i>
+          </a>
+      </nav>
+    </footer>
+  </article>
+        </div>
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="social-links">
+      <a href="mailto:your@email.com" class="iconfont icon-email" title="email"></a>
+      <a href="http://localhost:1313" class="iconfont icon-stack-overflow" title="stack-overflow"></a>
+      <a href="http://localhost:1313" class="iconfont icon-twitter" title="twitter"></a>
+      <a href="http://localhost:1313" class="iconfont icon-facebook" title="facebook"></a>
+      <a href="http://localhost:1313" class="iconfont icon-linkedin" title="linkedin"></a>
+      <a href="http://localhost:1313" class="iconfont icon-google" title="google"></a>
+      <a href="http://localhost:1313" class="iconfont icon-github" title="github"></a>
+      <a href="http://localhost:1313" class="iconfont icon-weibo" title="weibo"></a>
+      <a href="http://localhost:1313" class="iconfont icon-zhihu" title="zhihu"></a>
+      <a href="http://localhost:1313" class="iconfont icon-douban" title="douban"></a>
+      <a href="http://localhost:1313" class="iconfont icon-pocket" title="pocket"></a>
+      <a href="http://localhost:1313" class="iconfont icon-tumblr" title="tumblr"></a>
+      <a href="http://localhost:1313" class="iconfont icon-instagram" title="instagram"></a>
+  <a href="https://www.cffyh.cc/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
+</div>
+
+<div class="copyright">
+  <span class="power-by">
+    Powered by <a class="hexo-link" href="https://gohugo.io">Hugo</a>
+  </span>
+  <span class="division">|</span>
+  <span class="theme-info">
+    Theme - 
+    <a class="theme-link" href="https://github.com/olOwOlo/hugo-theme-even">Even</a>
+  </span>
+
+  
+
+  <span class="copyright-year">
+    &copy; 
+    
+      2017 - 
+    2018
+    <span class="heart">
+      <i class="iconfont icon-heart"></i>
+    </span>
+    <span class="author">刘超雄</span>
+  </span>
+</div>
+    </footer>
+
+    <div class="back-to-top" id="back-to-top">
+      <i class="iconfont icon-up"></i>
+    </div>
+  </div>
+  
+<script src="/lib/highlight/highlight.pack.js?v=20171001"></script>
+<script type="text/javascript" src="/lib/jquery/jquery-3.2.1.min.js"></script>
+  <script type="text/javascript" src="/lib/slideout/slideout-1.0.1.min.js"></script>
+  <script type="text/javascript" src="/lib/fancybox/jquery.fancybox-3.1.20.min.js"></script>
+<script type="text/javascript" src="/dist/even.min.js?v=2.7.0"></script>
+
+
+
+
+</body>
+</html>
