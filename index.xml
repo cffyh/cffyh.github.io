@@ -23,6 +23,15 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>架构演进</title>
+      <link>https://www.cffyh.cc/post/%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B/</link>
+      <pubDate>Tue, 02 Jan 2018 20:12:25 +0800</pubDate>
+      
+      <guid>https://www.cffyh.cc/post/%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B/</guid>
+      <description>事件驱动架构(EDA) 把服务根据业务关系分拆成多个平行的业务，从业务上解耦系统。（这个时候也可以根据服务分拆数据库，这一般看数据库的处理能力</description>
+    </item>
+    
+    <item>
       <title>关于异地多活</title>
       <link>https://www.cffyh.cc/post/%E5%85%B3%E4%BA%8E%E5%BC%82%E5%9C%B0%E5%A4%9A%E6%B4%BB/</link>
       <pubDate>Tue, 02 Jan 2018 11:25:23 +0800</pubDate>
