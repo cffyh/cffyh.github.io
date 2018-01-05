@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Even - A super concise theme for Hugo</title>
-    <link>https://www.cffyh.cc/categories/</link>
+    <link>http://www.cffyh.cc/categories/</link>
     <description>Recent content in Categories on Even - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://www.cffyh.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.cffyh.cc/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Category 2</title>
-      <link>https://www.cffyh.cc/categories/category-2/</link>
+      <link>http://www.cffyh.cc/categories/category-2/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://www.cffyh.cc/categories/category-2/</guid>
+      <guid>http://www.cffyh.cc/categories/category-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Category 3</title>
-      <link>https://www.cffyh.cc/categories/category-3/</link>
+      <link>http://www.cffyh.cc/categories/category-3/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://www.cffyh.cc/categories/category-3/</guid>
+      <guid>http://www.cffyh.cc/categories/category-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>https://www.cffyh.cc/categories/english/</link>
+      <link>http://www.cffyh.cc/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://www.cffyh.cc/categories/english/</guid>
+      <guid>http://www.cffyh.cc/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>https://www.cffyh.cc/categories/syntax-highlighting/</link>
+      <link>http://www.cffyh.cc/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>https://www.cffyh.cc/categories/syntax-highlighting/</guid>
+      <guid>http://www.cffyh.cc/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme Preview</title>
-      <link>https://www.cffyh.cc/categories/theme-preview/</link>
+      <link>http://www.cffyh.cc/categories/theme-preview/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>https://www.cffyh.cc/categories/theme-preview/</guid>
+      <guid>http://www.cffyh.cc/categories/theme-preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>中文</title>
-      <link>https://www.cffyh.cc/categories/%E4%B8%AD%E6%96%87/</link>
+      <link>http://www.cffyh.cc/categories/%E4%B8%AD%E6%96%87/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>https://www.cffyh.cc/categories/%E4%B8%AD%E6%96%87/</guid>
+      <guid>http://www.cffyh.cc/categories/%E4%B8%AD%E6%96%87/</guid>
       <description></description>
     </item>
     
