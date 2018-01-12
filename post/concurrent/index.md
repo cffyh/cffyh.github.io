@@ -2,30 +2,30 @@
 故事从一个变量讲起。比如初学编程的时候，我们都是从这样的代码学起的。
 
   ````
-    a = 1 print(a+1) 
+    a = 1 print(a+1)
   ````
 
 这能有多难？变量就是一个原子的容器，里面“之前”放了什么，“之后”取出来就是什么。映射到内存上就是一个内存地址而已。
 
 但是这其实是很难的事情。我们这些被惯坏了程序员是无法理解的。比如，你有这样的SQL
- 
+
   ````
-   UPDATE order SET order_status="arrived" WHERE order_id=10234 
+   UPDATE order SET order_status="arrived" WHERE order_id=10234
   ````
 执行完了之后，订单状态应该就是arrived了的。
 
   ````
-   SELECT order_status FROM order WHERE order_id=10234 
+   SELECT order_status FROM order WHERE order_id=10234
   ````
-   
+
 如果没有其他的写入操作。之后执行SELECT语句，取出来的订单状态就应该是arrived。当底层的数据库不是这样的行为的时候，我们会愤怒，我们会抓狂。比如我下一个接口取到的订单的时候会“校验”一下这个订单的当前状态是不是对的。读不到之前写入的订单状态，这个校验就过不去。
 
 另外一个对变量的理所当然的假设是，它应该支持我去做带前提条件的更新。比如
 
 ````
-if (amount >= 4) { 
+if (amount >= 4) {
    amount = amount - 4 return SUCCESS
-} else { 
+} else {
   return FAILED
 }
 ````   
@@ -35,7 +35,7 @@ if (amount >= 4) {
 对应成 SQL，我们的期望其实非常低。也不要求什么多行记录的事务。要求仅仅是操作一行的时候，这个操作能是原子的。比如这样的SQL
 
 ````
-UPDATE account SET amount = amount - 4 WHERE amount >= 4 
+UPDATE account SET amount = amount - 4 WHERE amount >= 4
 ````
 对数据库有这样的要求高么？一点都不高对不对。这个事情难不难？非常难！但是如果底层的数据不能提供这样的基本保障，我们这些写业务代码的程序员会愤怒，会抓狂。
 
@@ -56,7 +56,7 @@ UPDATE account SET amount = amount - 4 WHERE amount >= 4
 
 Wait a minute。做为一个变量这么一点基本的操守都没有么。比如我作为一个 Java 程序员都知道
 
-volatile int a; a = 1; // thread 1 System.out.println(a+1); // thread 2 
+volatile int a; a = 1; // thread 1 System.out.println(a+1); // thread 2
 什么Linearizability，名词一套套的。把我都说蒙圈了。你们这些基础架构的高T们，是不是就会写PPT啊。
 
 这难道不是java面试题么。通过设置 volatile，可以保证在 thread 1 写入了 a，在这个时间之后，从任意其他线程去读 a 都可以读到之前写入的值。
@@ -107,8 +107,8 @@ b = b + 1
 ````
 a = 0
 doX() {
-  if (a == 0) { 
-    a = a + 1 
+  if (a == 0) {
+    a = a + 1
   }
 }
 doY() {

@@ -33,10 +33,10 @@ int main(void){
 ```
 
 ```cpp
-// 'Hello World!' program 
- 
+// 'Hello World!' program
+
 #include <iostream>
- 
+
 int main(){
   std::cout << "Hello World!" << std::endl;
   return 0;
@@ -46,7 +46,7 @@ int main(){
 ```cs
 using System;
 class HelloWorld{
-  public static void Main(){ 
+  public static void Main(){
     System.Console.WriteLine("Hello, World!");
   }
 }
@@ -64,7 +64,7 @@ class HelloWorld{
 package main
 import fmt "fmt"
 
-func main() 
+func main()
 {
    fmt.Printf("Hello, World!\n");
 }
@@ -83,5 +83,5 @@ object HelloWorld with Application {
 ```
 
 ```python
-print("Hello, World!") 
+print("Hello, World!")
 ```
