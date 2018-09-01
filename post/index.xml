@@ -1,283 +1,283 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Even - A super concise theme for Hugo</title>
-    <link>http://www.cffyh.cc/post/</link>
-    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
+    <title>Posts on </title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 01 Sep 2018 07:42:32 +0800</lastBuildDate>
     
-	<atom:link href="http://www.cffyh.cc/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>数学教育</title>
-      <link>http://www.cffyh.cc/post/%E6%95%B0%E5%AD%A6%E6%95%99%E8%82%B2/</link>
+      <link>http://localhost:1313/post/%E6%95%B0%E5%AD%A6%E6%95%99%E8%82%B2/</link>
       <pubDate>Sat, 01 Sep 2018 07:42:32 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E6%95%B0%E5%AD%A6%E6%95%99%E8%82%B2/</guid>
+      <guid>http://localhost:1313/post/%E6%95%B0%E5%AD%A6%E6%95%99%E8%82%B2/</guid>
       <description>1 自由和经济基础&amp;ndash;&amp;gt;偶然产生大师&amp;ndash;&amp;gt; 思想传播，制度和教育方法&amp;ndash;&amp;gt; 大批量的出现大师 俄罗斯</description>
     </item>
     
     <item>
       <title>乐嘉·演讲</title>
-      <link>http://www.cffyh.cc/post/%E4%B9%90%E5%98%89%E6%BC%94%E8%AE%B2/</link>
+      <link>http://localhost:1313/post/%E4%B9%90%E5%98%89%E6%BC%94%E8%AE%B2/</link>
       <pubDate>Mon, 27 Aug 2018 10:35:39 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E4%B9%90%E5%98%89%E6%BC%94%E8%AE%B2/</guid>
+      <guid>http://localhost:1313/post/%E4%B9%90%E5%98%89%E6%BC%94%E8%AE%B2/</guid>
       <description>成功只需一件事 在过往超演的前两年时间里面我总共做过三次演讲，这三次演讲全部是和性格色彩有关，那今年我想换另外一个话题来跟大家交流， 也相当于是</description>
     </item>
     
     <item>
       <title>思考方式</title>
-      <link>http://www.cffyh.cc/post/%E6%80%9D%E8%80%83%E6%96%B9%E5%BC%8F/</link>
+      <link>http://localhost:1313/post/%E6%80%9D%E8%80%83%E6%96%B9%E5%BC%8F/</link>
       <pubDate>Mon, 20 Aug 2018 22:42:20 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E6%80%9D%E8%80%83%E6%96%B9%E5%BC%8F/</guid>
+      <guid>http://localhost:1313/post/%E6%80%9D%E8%80%83%E6%96%B9%E5%BC%8F/</guid>
       <description>文字阅读理解 通过头脑构建世界思考。 如果通过听力理解呢，即时交流。 构建世界，理解本质的方式更本原，能更多维，更具创造性。 语言推理方式更易交流更</description>
     </item>
     
     <item>
       <title>多语言学习</title>
-      <link>http://www.cffyh.cc/post/%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/</link>
+      <link>http://localhost:1313/post/%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Mon, 20 Aug 2018 13:49:25 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/</guid>
+      <guid>http://localhost:1313/post/%E5%A4%9A%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0/</guid>
       <description>总有人想知道语言怎么学更有效，也总有人想不明白放着舒舒服服的日子不过你学那么多语言干什么？ 学语言嘛，一方面在于乐趣，一方面在于实用。 学语言，</description>
     </item>
     
     <item>
       <title>科研和社会</title>
-      <link>http://www.cffyh.cc/post/%E7%A7%91%E7%A0%94%E5%92%8C%E7%A4%BE%E4%BC%9A/</link>
+      <link>http://localhost:1313/post/%E7%A7%91%E7%A0%94%E5%92%8C%E7%A4%BE%E4%BC%9A/</link>
       <pubDate>Wed, 01 Aug 2018 12:42:50 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E7%A7%91%E7%A0%94%E5%92%8C%E7%A4%BE%E4%BC%9A/</guid>
+      <guid>http://localhost:1313/post/%E7%A7%91%E7%A0%94%E5%92%8C%E7%A4%BE%E4%BC%9A/</guid>
       <description>内在动机 内在动机是驱使人类从事创新活动的原始动力 因为创新是如此有趣，令人愉悦或者富有挑战性。 中国传统文化将“衣、食、住、行”归结为人的最基本</description>
     </item>
     
     <item>
       <title>快就是慢,慢就是快</title>
-      <link>http://www.cffyh.cc/post/%E5%BF%AB%E5%B0%B1%E6%98%AF%E6%85%A2%E6%85%A2%E5%B0%B1%E6%98%AF%E5%BF%AB/</link>
+      <link>http://localhost:1313/post/%E5%BF%AB%E5%B0%B1%E6%98%AF%E6%85%A2%E6%85%A2%E5%B0%B1%E6%98%AF%E5%BF%AB/</link>
       <pubDate>Sat, 30 Jun 2018 17:39:48 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E5%BF%AB%E5%B0%B1%E6%98%AF%E6%85%A2%E6%85%A2%E5%B0%B1%E6%98%AF%E5%BF%AB/</guid>
+      <guid>http://localhost:1313/post/%E5%BF%AB%E5%B0%B1%E6%98%AF%E6%85%A2%E6%85%A2%E5%B0%B1%E6%98%AF%E5%BF%AB/</guid>
       <description>作者：山宗（来自豆瓣） 来源：https://www.douban.com/note/596434029/ 我不是个爱运动的人，想要跑步的发心都</description>
     </item>
     
     <item>
       <title>2018心法</title>
-      <link>http://www.cffyh.cc/post/2018%E5%BF%83%E6%B3%95/</link>
+      <link>http://localhost:1313/post/2018%E5%BF%83%E6%B3%95/</link>
       <pubDate>Thu, 14 Jun 2018 10:49:58 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/2018%E5%BF%83%E6%B3%95/</guid>
+      <guid>http://localhost:1313/post/2018%E5%BF%83%E6%B3%95/</guid>
       <description>表达 task list 排序 分类 目标效果 关键词记忆法 每日三省</description>
     </item>
     
     <item>
       <title>审视自己的行为,关照自己的内心</title>
-      <link>http://www.cffyh.cc/post/%E5%AE%A1%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%8C%E4%B8%BA%E5%85%B3%E7%85%A7%E8%87%AA%E5%B7%B1%E7%9A%84%E5%86%85%E5%BF%83/</link>
+      <link>http://localhost:1313/post/%E5%AE%A1%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%8C%E4%B8%BA%E5%85%B3%E7%85%A7%E8%87%AA%E5%B7%B1%E7%9A%84%E5%86%85%E5%BF%83/</link>
       <pubDate>Wed, 13 Jun 2018 20:36:08 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E5%AE%A1%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%8C%E4%B8%BA%E5%85%B3%E7%85%A7%E8%87%AA%E5%B7%B1%E7%9A%84%E5%86%85%E5%BF%83/</guid>
+      <guid>http://localhost:1313/post/%E5%AE%A1%E8%A7%86%E8%87%AA%E5%B7%B1%E7%9A%84%E8%A1%8C%E4%B8%BA%E5%85%B3%E7%85%A7%E8%87%AA%E5%B7%B1%E7%9A%84%E5%86%85%E5%BF%83/</guid>
       <description>不需要否定，需要是知道自己。每个行为有自己的原因 投机取巧 冒险 不确定收益时犹豫 期望爆发性 期望完美的外部环境，但外部环境是恶劣的是事实</description>
     </item>
     
     <item>
       <title>论表达</title>
-      <link>http://www.cffyh.cc/post/%E8%AE%BA%E8%A1%A8%E8%BE%BE/</link>
+      <link>http://localhost:1313/post/%E8%AE%BA%E8%A1%A8%E8%BE%BE/</link>
       <pubDate>Sat, 09 Jun 2018 08:10:03 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E8%AE%BA%E8%A1%A8%E8%BE%BE/</guid>
+      <guid>http://localhost:1313/post/%E8%AE%BA%E8%A1%A8%E8%BE%BE/</guid>
       <description>表达 信息加工处理的基础，即使是大脑的图像思维，大脑里也要能在头脑里形成一个世界。 文字表达和口头表达，利于信息的深度加工和传输 一定会丢失信息 表</description>
     </item>
     
     <item>
       <title>再论时间管理</title>
-      <link>http://www.cffyh.cc/post/%E5%86%8D%E8%AE%BA%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</link>
+      <link>http://localhost:1313/post/%E5%86%8D%E8%AE%BA%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</link>
       <pubDate>Sat, 09 Jun 2018 07:20:26 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E5%86%8D%E8%AE%BA%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://localhost:1313/post/%E5%86%8D%E8%AE%BA%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86/</guid>
       <description>关键词 排序,分类: 分清楚事情的重要和紧急程度，分类关联，便于记忆 目标,效果: 达成目标的欲望,是直接驱动力和依据，目标是始，效果是终 紧盯目标，</description>
     </item>
     
     <item>
       <title>我的思考</title>
-      <link>http://www.cffyh.cc/post/%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/</link>
+      <link>http://localhost:1313/post/%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/</link>
       <pubDate>Wed, 02 May 2018 10:20:46 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/</guid>
+      <guid>http://localhost:1313/post/%E6%88%91%E7%9A%84%E6%80%9D%E8%80%83/</guid>
       <description>世界的本质是事物的转化 =&amp;gt; 万事万物相同的起源,任何事物都有共性，凡物莫不相异. 不同事物和系统向不同的方向发展变化，造成了他们之前的差异; 但他们</description>
     </item>
     
     <item>
       <title>人的精力</title>
-      <link>http://www.cffyh.cc/post/%E4%BA%BA%E7%9A%84%E7%B2%BE%E5%8A%9B/</link>
+      <link>http://localhost:1313/post/%E4%BA%BA%E7%9A%84%E7%B2%BE%E5%8A%9B/</link>
       <pubDate>Mon, 05 Mar 2018 10:04:36 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E4%BA%BA%E7%9A%84%E7%B2%BE%E5%8A%9B/</guid>
+      <guid>http://localhost:1313/post/%E4%BA%BA%E7%9A%84%E7%B2%BE%E5%8A%9B/</guid>
       <description>人的精力是颇为有限的。付出的过程比获取要长很多。做任何有益于自己的，成长性的事情都需要付出精力，这也要求人们有节制的使用这一无形资本——我认</description>
     </item>
     
     <item>
       <title>成就事情的能力</title>
-      <link>http://www.cffyh.cc/post/%E6%88%90%E5%B0%B1%E4%BA%8B%E6%83%85%E7%9A%84%E8%83%BD%E5%8A%9B/</link>
+      <link>http://localhost:1313/post/%E6%88%90%E5%B0%B1%E4%BA%8B%E6%83%85%E7%9A%84%E8%83%BD%E5%8A%9B/</link>
       <pubDate>Mon, 26 Feb 2018 10:50:07 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E6%88%90%E5%B0%B1%E4%BA%8B%E6%83%85%E7%9A%84%E8%83%BD%E5%8A%9B/</guid>
+      <guid>http://localhost:1313/post/%E6%88%90%E5%B0%B1%E4%BA%8B%E6%83%85%E7%9A%84%E8%83%BD%E5%8A%9B/</guid>
       <description>目标管理，精力管理(时间管理)，有决心 有毅力 积极主动，保证执行力。 眼光和策略保证成就的高度。 眼光是指在某一时刻，对某领域趋势准确预测的能力。</description>
     </item>
     
     <item>
       <title>哲学和心理学</title>
-      <link>http://www.cffyh.cc/post/%E5%93%B2%E5%AD%A6%E5%92%8C%E5%BF%83%E7%90%86%E5%AD%A6/</link>
+      <link>http://localhost:1313/post/%E5%93%B2%E5%AD%A6%E5%92%8C%E5%BF%83%E7%90%86%E5%AD%A6/</link>
       <pubDate>Wed, 10 Jan 2018 21:44:53 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E5%93%B2%E5%AD%A6%E5%92%8C%E5%BF%83%E7%90%86%E5%AD%A6/</guid>
+      <guid>http://localhost:1313/post/%E5%93%B2%E5%AD%A6%E5%92%8C%E5%BF%83%E7%90%86%E5%AD%A6/</guid>
       <description>看这里 作者：青锐吴斌 链接：https://www.zhihu.com/question/30196004/answer/128860873 来</description>
     </item>
     
     <item>
       <title>浪费和效率,效率与结果</title>
-      <link>http://www.cffyh.cc/post/%E6%B5%AA%E8%B4%B9%E5%92%8C%E6%95%88%E7%8E%87%E6%95%88%E7%8E%87%E4%B8%8E%E7%BB%93%E6%9E%9C/</link>
+      <link>http://localhost:1313/post/%E6%B5%AA%E8%B4%B9%E5%92%8C%E6%95%88%E7%8E%87%E6%95%88%E7%8E%87%E4%B8%8E%E7%BB%93%E6%9E%9C/</link>
       <pubDate>Wed, 10 Jan 2018 13:31:19 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E6%B5%AA%E8%B4%B9%E5%92%8C%E6%95%88%E7%8E%87%E6%95%88%E7%8E%87%E4%B8%8E%E7%BB%93%E6%9E%9C/</guid>
+      <guid>http://localhost:1313/post/%E6%B5%AA%E8%B4%B9%E5%92%8C%E6%95%88%E7%8E%87%E6%95%88%E7%8E%87%E4%B8%8E%E7%BB%93%E6%9E%9C/</guid>
       <description>不知道大家还记不记得以前在物理课本上学过的一句话：“蒸汽机对燃料的利用率不到10%，内燃机将燃料的利用率提高到了25%-40%。” 我记得当时</description>
     </item>
     
     <item>
       <title>目标管理,精力管理</title>
-      <link>http://www.cffyh.cc/post/%E9%B8%A1%E6%B1%A4%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9B%AE%E6%A0%87%E7%AE%A1%E7%90%86/</link>
+      <link>http://localhost:1313/post/%E9%B8%A1%E6%B1%A4%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9B%AE%E6%A0%87%E7%AE%A1%E7%90%86/</link>
       <pubDate>Mon, 08 Jan 2018 10:46:28 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E9%B8%A1%E6%B1%A4%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9B%AE%E6%A0%87%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://localhost:1313/post/%E9%B8%A1%E6%B1%A4%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E7%9B%AE%E6%A0%87%E7%AE%A1%E7%90%86/</guid>
       <description>精力管理是时间管理加上人的兴趣，性格，人的精神情绪等因素 人为什么会懒 几百万年前，人类的食物并不是那么丰富，可能很多时候需要贮存食物来度过，懒</description>
     </item>
     
     <item>
       <title>隐藏了118年的尼古拉·特斯拉访谈录</title>
-      <link>http://www.cffyh.cc/post/%E9%9A%90%E8%97%8F%E4%BA%86118%E5%B9%B4%E7%9A%84%E5%B0%BC%E5%8F%A4%E6%8B%89%E7%89%B9%E6%96%AF%E6%8B%89%E8%AE%BF%E8%B0%88%E5%BD%95/</link>
+      <link>http://localhost:1313/post/%E9%9A%90%E8%97%8F%E4%BA%86118%E5%B9%B4%E7%9A%84%E5%B0%BC%E5%8F%A4%E6%8B%89%E7%89%B9%E6%96%AF%E6%8B%89%E8%AE%BF%E8%B0%88%E5%BD%95/</link>
       <pubDate>Sun, 07 Jan 2018 23:48:27 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E9%9A%90%E8%97%8F%E4%BA%86118%E5%B9%B4%E7%9A%84%E5%B0%BC%E5%8F%A4%E6%8B%89%E7%89%B9%E6%96%AF%E6%8B%89%E8%AE%BF%E8%B0%88%E5%BD%95/</guid>
+      <guid>http://localhost:1313/post/%E9%9A%90%E8%97%8F%E4%BA%86118%E5%B9%B4%E7%9A%84%E5%B0%BC%E5%8F%A4%E6%8B%89%E7%89%B9%E6%96%AF%E6%8B%89%E8%AE%BF%E8%B0%88%E5%BD%95/</guid>
       <description>尼古拉·特斯拉是美籍西伯利亚人，出生在克罗地亚，在捷克接受教育，工作在布达佩斯、巴黎、布拉格、斯特拉斯堡和美国。他四海为家，有强烈的为全人类</description>
     </item>
     
     <item>
       <title>学习习惯与思维习惯，是另一种形式的阶级固化</title>
-      <link>http://www.cffyh.cc/post/%E5%AD%A6%E4%B9%A0%E4%B9%A0%E6%83%AF%E4%B8%8E%E6%80%9D%E7%BB%B4%E4%B9%A0%E6%83%AF%E6%98%AF%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%BD%A2%E5%BC%8F%E7%9A%84%E9%98%B6%E7%BA%A7%E5%9B%BA%E5%8C%96/</link>
+      <link>http://localhost:1313/post/%E5%AD%A6%E4%B9%A0%E4%B9%A0%E6%83%AF%E4%B8%8E%E6%80%9D%E7%BB%B4%E4%B9%A0%E6%83%AF%E6%98%AF%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%BD%A2%E5%BC%8F%E7%9A%84%E9%98%B6%E7%BA%A7%E5%9B%BA%E5%8C%96/</link>
       <pubDate>Sun, 07 Jan 2018 21:31:33 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E5%AD%A6%E4%B9%A0%E4%B9%A0%E6%83%AF%E4%B8%8E%E6%80%9D%E7%BB%B4%E4%B9%A0%E6%83%AF%E6%98%AF%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%BD%A2%E5%BC%8F%E7%9A%84%E9%98%B6%E7%BA%A7%E5%9B%BA%E5%8C%96/</guid>
+      <guid>http://localhost:1313/post/%E5%AD%A6%E4%B9%A0%E4%B9%A0%E6%83%AF%E4%B8%8E%E6%80%9D%E7%BB%B4%E4%B9%A0%E6%83%AF%E6%98%AF%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%BD%A2%E5%BC%8F%E7%9A%84%E9%98%B6%E7%BA%A7%E5%9B%BA%E5%8C%96/</guid>
       <description>学习习惯与思维习惯，是另一种形式的阶级固化 我知道，很多人对学习的理解是这样的： 在他们看来，天天上课睡觉打游戏然后考前翻翻书最后九十多就是天赋</description>
     </item>
     
     <item>
       <title>一个创业者复盘两年的对错清单</title>
-      <link>http://www.cffyh.cc/post/%E4%B8%80%E4%B8%AA%E5%88%9B%E4%B8%9A%E8%80%85%E5%A4%8D%E7%9B%98%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%AF%B9%E9%94%99%E6%B8%85%E5%8D%95/</link>
+      <link>http://localhost:1313/post/%E4%B8%80%E4%B8%AA%E5%88%9B%E4%B8%9A%E8%80%85%E5%A4%8D%E7%9B%98%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%AF%B9%E9%94%99%E6%B8%85%E5%8D%95/</link>
       <pubDate>Sun, 07 Jan 2018 21:06:57 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E4%B8%80%E4%B8%AA%E5%88%9B%E4%B8%9A%E8%80%85%E5%A4%8D%E7%9B%98%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%AF%B9%E9%94%99%E6%B8%85%E5%8D%95/</guid>
+      <guid>http://localhost:1313/post/%E4%B8%80%E4%B8%AA%E5%88%9B%E4%B8%9A%E8%80%85%E5%A4%8D%E7%9B%98%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%AF%B9%E9%94%99%E6%B8%85%E5%8D%95/</guid>
       <description>一个创业者复盘两年的对错清单 创业至今两年。没赢，也还没输。我的思考必须借助纸笔落为文字，大学里每每落笔万言，毕业后写了四年博客，整 100 万字。写</description>
     </item>
     
     <item>
       <title>借助纸笔思考</title>
-      <link>http://www.cffyh.cc/post/%E5%80%9F%E5%8A%A9%E7%BA%B8%E7%AC%94%E6%80%9D%E8%80%83/</link>
+      <link>http://localhost:1313/post/%E5%80%9F%E5%8A%A9%E7%BA%B8%E7%AC%94%E6%80%9D%E8%80%83/</link>
       <pubDate>Sun, 07 Jan 2018 20:46:49 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E5%80%9F%E5%8A%A9%E7%BA%B8%E7%AC%94%E6%80%9D%E8%80%83/</guid>
+      <guid>http://localhost:1313/post/%E5%80%9F%E5%8A%A9%E7%BA%B8%E7%AC%94%E6%80%9D%E8%80%83/</guid>
       <description>人的思维具有跳跃性，一些好的想法、创意总是转瞬即逝，只有用纸和笔及时记录下来，才能永久保存，为自己所有； 人的脑袋里会同时存在很多想法，只有将</description>
     </item>
     
     <item>
       <title>枢纽和拔河理论</title>
-      <link>http://www.cffyh.cc/post/%E6%9E%A2%E7%BA%BD%E5%92%8C%E6%8B%94%E6%B2%B3%E7%90%86%E8%AE%BA/</link>
+      <link>http://localhost:1313/post/%E6%9E%A2%E7%BA%BD%E5%92%8C%E6%8B%94%E6%B2%B3%E7%90%86%E8%AE%BA/</link>
       <pubDate>Tue, 02 Jan 2018 20:52:19 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E6%9E%A2%E7%BA%BD%E5%92%8C%E6%8B%94%E6%B2%B3%E7%90%86%E8%AE%BA/</guid>
+      <guid>http://localhost:1313/post/%E6%9E%A2%E7%BA%BD%E5%92%8C%E6%8B%94%E6%B2%B3%E7%90%86%E8%AE%BA/</guid>
       <description>中国何去何从 国家的发展也要找到自己的位置 曾经中国是在全球化分工，产业转移中，比较优势，累活，苦活，脏活&amp;ndash;终点站 现在变化了，把各种</description>
     </item>
     
     <item>
       <title>架构演进</title>
-      <link>http://www.cffyh.cc/post/%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B/</link>
+      <link>http://localhost:1313/post/%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B/</link>
       <pubDate>Tue, 02 Jan 2018 20:12:25 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B/</guid>
+      <guid>http://localhost:1313/post/%E6%9E%B6%E6%9E%84%E6%BC%94%E8%BF%9B/</guid>
       <description>事件驱动架构(EDA) 把服务根据业务关系分拆成多个平行的业务，从业务上解耦系统。（这个时候也可以根据服务分拆数据库，这一般看数据库的处理能力</description>
     </item>
     
     <item>
       <title>关于异地多活</title>
-      <link>http://www.cffyh.cc/post/%E5%85%B3%E4%BA%8E%E5%BC%82%E5%9C%B0%E5%A4%9A%E6%B4%BB/</link>
+      <link>http://localhost:1313/post/%E5%85%B3%E4%BA%8E%E5%BC%82%E5%9C%B0%E5%A4%9A%E6%B4%BB/</link>
       <pubDate>Tue, 02 Jan 2018 11:25:23 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E5%85%B3%E4%BA%8E%E5%BC%82%E5%9C%B0%E5%A4%9A%E6%B4%BB/</guid>
+      <guid>http://localhost:1313/post/%E5%85%B3%E4%BA%8E%E5%BC%82%E5%9C%B0%E5%A4%9A%E6%B4%BB/</guid>
       <description>“异地多活”看起来就是这样一个万能的大杀器，很多人理想中认为只要实现了“异地多活”，不管是新奥尔良水灾，美加大停电，蓝翔挖掘机。。。。。。等</description>
     </item>
     
     <item>
       <title>稳定性和效率的建设</title>
-      <link>http://www.cffyh.cc/post/%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%95%88%E7%8E%87%E7%9A%84%E5%BB%BA%E8%AE%BE/</link>
+      <link>http://localhost:1313/post/%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%95%88%E7%8E%87%E7%9A%84%E5%BB%BA%E8%AE%BE/</link>
       <pubDate>Tue, 02 Jan 2018 10:08:19 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%95%88%E7%8E%87%E7%9A%84%E5%BB%BA%E8%AE%BE/</guid>
+      <guid>http://localhost:1313/post/%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%92%8C%E6%95%88%E7%8E%87%E7%9A%84%E5%BB%BA%E8%AE%BE/</guid>
       <description>定位 技术为业务服务， 稳定性 设计 开发测试流程 故障角度 预防演练，故障注入 提早发现 辅助定位 快速恢复 方法论和工具 效率 docker化 中间件 流程优化 稳定</description>
     </item>
     
     <item>
       <title>关于写代码这件事</title>
-      <link>http://www.cffyh.cc/post/coding/</link>
+      <link>http://localhost:1313/post/coding/</link>
       <pubDate>Fri, 29 Dec 2017 14:48:06 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/coding/</guid>
+      <guid>http://localhost:1313/post/coding/</guid>
       <description>写代码是我们程序员的立身之本,有三个问题值得好好思考下： 什么样的代码是好代码？ 很炫的代码。 每个类都散发着设计模式的味道。 每个处理流程都曲径通</description>
     </item>
     
     <item>
       <title>多线程和并行的世界</title>
-      <link>http://www.cffyh.cc/post/concurrent/</link>
+      <link>http://localhost:1313/post/concurrent/</link>
       <pubDate>Thu, 28 Dec 2017 18:17:46 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/concurrent/</guid>
+      <guid>http://localhost:1313/post/concurrent/</guid>
       <description>背景 故事从一个变量讲起。比如初学编程的时候，我们都是从这样的代码学起的。 a = 1 print(a+1) 这能有多难？变量就是一个原子的容器，里面“之前”放了什么，“</description>
     </item>
     
     <item>
       <title>OpenTracing语义标准</title>
-      <link>http://www.cffyh.cc/post/opentracing/</link>
+      <link>http://localhost:1313/post/opentracing/</link>
       <pubDate>Thu, 28 Dec 2017 16:08:37 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/opentracing/</guid>
+      <guid>http://localhost:1313/post/opentracing/</guid>
       <description>版本号: 1.1 综述 这是正式的OpenTracing语义标准。OpenTracing是一个跨编程语言的标准，此文档会避免具有语言特性的概念。比如，</description>
     </item>
     
     <item>
       <title>Metrics, tracing 和 logging 的关系</title>
-      <link>http://www.cffyh.cc/post/metrics-tracing-loging/</link>
+      <link>http://localhost:1313/post/metrics-tracing-loging/</link>
       <pubDate>Thu, 28 Dec 2017 14:37:35 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/metrics-tracing-loging/</guid>
+      <guid>http://localhost:1313/post/metrics-tracing-loging/</guid>
       <description>在构建监控系统时，大家往往在Metrics, tracing 和 logging这几个名词和方式之间纠结。 其中一个重要的论点，是针对监控项目的范围和定义的。作</description>
     </item>
     
     <item>
       <title>Two</title>
-      <link>http://www.cffyh.cc/post/two/</link>
+      <link>http://localhost:1313/post/two/</link>
       <pubDate>Thu, 28 Dec 2017 10:08:07 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/two/</guid>
+      <guid>http://localhost:1313/post/two/</guid>
       <description>欢迎使用 Cmd Markdown 编辑阅读器 我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，Cmd Markdown 是我们给出的答案 —— 我</description>
     </item>
     
     <item>
       <title>English Creating a New Theme</title>
-      <link>http://www.cffyh.cc/post/english-preview/</link>
+      <link>http://localhost:1313/post/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/english-preview/</guid>
+      <guid>http://localhost:1313/post/english-preview/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
@@ -287,10 +287,10 @@
     
     <item>
       <title>中文 《长恨歌》</title>
-      <link>http://www.cffyh.cc/post/chinese-preview/</link>
+      <link>http://localhost:1313/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/chinese-preview/</guid>
+      <guid>http://localhost:1313/post/chinese-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -310,10 +310,10 @@
     
     <item>
       <title>Theme preview</title>
-      <link>http://www.cffyh.cc/post/even-preview/</link>
+      <link>http://localhost:1313/post/even-preview/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/even-preview/</guid>
+      <guid>http://localhost:1313/post/even-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -325,10 +325,10 @@
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://www.cffyh.cc/post/syntax-highlighting/</link>
+      <link>http://localhost:1313/post/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://www.cffyh.cc/post/syntax-highlighting/</guid>
+      <guid>http://localhost:1313/post/syntax-highlighting/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
   alert(&amp;quot;Hello, World!&amp;quot;)
 }
