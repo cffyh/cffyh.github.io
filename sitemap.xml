@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>http://localhost:1313/post/%E4%BA%BA%E7%94%9F%E7%9A%84%E6%80%81%E5%BA%A6/</loc>
+    <lastmod>2018-11-17T17:42:51+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/post/%E6%88%90%E5%8A%9F%E5%AD%A6%E6%80%8E%E4%B9%88%E6%89%8D%E4%B8%8D%E4%BC%9A%E6%9C%89%E6%AF%92/</loc>
     <lastmod>2018-11-05T10:43:59+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -318,7 +325,7 @@
   
   <url>
     <loc>http://localhost:1313/post/</loc>
-    <lastmod>2018-11-05T10:43:59+08:00</lastmod>
+    <lastmod>2018-11-17T17:42:51+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
