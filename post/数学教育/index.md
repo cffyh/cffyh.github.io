@@ -2,6 +2,11 @@
 
 + 俄罗斯 法国 匈牙利 的数学，是个变化的普遍规律。
 
+https://scholarlycommons.pacific.edu/euler/
+
+http://eulerarchive.maa.org/
+
+
 2 数学等是有标准化训练方法的
 
 3 符号，量化，公理化思维+相似相异+转化-->数学之根本思维
