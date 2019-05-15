@@ -11,7 +11,10 @@
 
 卓越高效工作的关于事的基本能力：
 
-+ ![目标、任务、计划](https://raw.githubusercontent.com/cffyh/cffyh.github.io/master/img/2017050709443633.jpg)
++ 领域知识
++ 系统思维解决认知、抓手思维解决落实
++ 任务、目标、计划
++ ![任务、目标、计划](https://raw.githubusercontent.com/cffyh/cffyh.github.io/master/img/2017050709443633.jpg)
 
 
 人与人之间兴趣千差万别，最底层的逻辑是：**诉求和能力之间的复杂辩证关系。** --- 对此叔本华做了比较精彩的论述，但值得继续深入研究。
